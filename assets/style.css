@@ -4,9 +4,15 @@
 
 .imgpartone img, .imgparttwo img{
 	width:100%;
- max-height: 275px; 
- 
+ max-height: 260px; 
+ border-bottom: 3px solid white;
+ border-top: 3px solid white;
 } 
+
+/* .imgpartone img{
+	
+	border-top: 4px 
+} */
 
 .modelastbd {
 	max-height: 350px;
@@ -19,7 +25,7 @@
 
 .buttonpart {
 	text-align: center;
-	padding:20px;
+	padding:40px;
 }
 
 .calllast{
